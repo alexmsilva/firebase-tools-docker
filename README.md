@@ -37,3 +37,6 @@ docker run -t --rm alexmsilva/firebase-tools firebase list
 ```
 
 É só isso! Agora é só desfrutar do seu container, criar projetos, fazer deploys e tudo mais. Só não esqueça de montar o volume.
+
+**OBS**: *Cuidado para não se empolgar muito e publicar sua imagem com senha salva no Docker Hub*.
+
